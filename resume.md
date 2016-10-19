@@ -7,13 +7,14 @@ permalink: /resume/
 ## Contact information
 - Email: [`punya.biswal@gmail.com`](mailto:punya.biswal@gmail.com)
 - Telephone: 646 455 9865
-- Address: 55 North Water St Apt B501, Norwalk, CT 06854
+- Address: 55 North Water St Apt B208, Norwalk, CT 06854
 - Work eligibility: H-1B visa holder, I-140 approved
 
 ## Industry experience
 
 ### Palantir (2011–present)
-- Present: Development lead on top-down analytics product, used for signals intelligence, data quality and time series oriented analysis.
+- Present: Development lead for centralized log collection and continuous deployment across products in the commercial space.
+- 2016: Development lead on top-down analytics product, used for signals intelligence, data quality and time series oriented analysis.
 - 2015: Tech lead for unified authentication service across Palantir applications.
 - 2015: Development lead for Python infrastructure team.
 - 2014: Backend lead for dashboard/rapid application development tool.
