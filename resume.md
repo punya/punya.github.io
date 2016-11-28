@@ -27,6 +27,8 @@ permalink: /resume/
 - 2008: Implemented distributed graph algorithms to benchmark new parallel processing system built to succeed MapReduce.
 - 2005: Improved performance on applicant tracking system.
 
+## Service
+- 2015: Mentored a team of high school student entrepreneurs as part of the [Network for Teaching Entrepreneurship](https://www.nfte.com/)
 
 ## Education
 
