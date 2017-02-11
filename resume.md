@@ -12,7 +12,10 @@ permalink: /resume/
 
 ## Industry experience
 
-### Palantir (2011–present)
+### Asapp (Dec 2016-present)
+- Developing applications to deliver NLP capabilities in enterprise customer support
+
+### Palantir (2011–2016)
 - Present: Development lead for centralized log collection and continuous deployment across products in the commercial space.
 - 2016: Development lead on top-down analytics product, used for signals intelligence, data quality and time series oriented analysis.
 - 2015: Tech lead for unified authentication service across Palantir applications.
