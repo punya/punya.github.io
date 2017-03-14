@@ -6,8 +6,6 @@ permalink: /resume/
 
 ## Contact information
 - Email: [`punya.biswal@gmail.com`](mailto:punya.biswal@gmail.com)
-- Telephone: 646 455 9865
-- Address: 55 North Water St Apt B208, Norwalk, CT 06854
 - Work eligibility: H-1B visa holder, I-140 approved
 
 ## Industry experience
