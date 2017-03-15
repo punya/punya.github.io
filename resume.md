@@ -14,12 +14,15 @@ permalink: /resume/
 - Developing applications to deliver NLP capabilities in enterprise customer support
 
 ### Palantir (2011–2016)
-- Present: Development lead for centralized log collection and continuous deployment across products in the commercial space.
-- 2016: Development lead on top-down analytics product, used for signals intelligence, data quality and time series oriented analysis.
-- 2015: Tech lead for unified authentication service across Palantir applications.
-- 2015: Development lead for Python infrastructure team.
-- 2014: Backend lead for dashboard/rapid application development tool.
-- 2011-2013: Developer on Finance product, responsible for performance and stability under high multi-user load.
+Led teams that developed key products in the commercial space, drove large-scale architectural changes across Palantir.
+
+- 2016: Development lead for centralized log collection and continuous deployment across cloud-based products. (ELK)
+- 2016: Development lead on top-down analytics product, used for signals intelligence, data quality and time series oriented analysis. (Spark, Dropwizard, AngularJS, ReactJS, TypeScript, Docker)
+- 2015: Tech lead for unified authentication service across Palantir applications. (Dropwizard, Spring Security)
+- 2015: Development lead for Python infrastructure team. (Conda, PySpark, Docker)
+- 2014: Drop evaluation and adoption of Dropwizard + TypeScript across all new projects at Palantir
+- 2014: Backend lead for dashboard/rapid application development tool. (Dropwizard, TypeScript, AngularJS)
+- 2011-2013: Developer on Finance product, responsible for performance and stability under high multi-user load. (Spring Framework, Zookeeper)
 
 ### Microsoft (internship, 2010)
 - Research on theoretical topics (lower bounds for locale decidable codes, differential privacy for real-valued queries).
