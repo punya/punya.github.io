@@ -14,12 +14,12 @@ permalink: /resume/
 - Developing applications to deliver NLP capabilities in enterprise customer support
 
 ### Palantir (2011–2016) - Development Team Lead
-- Co-owned backend for financial analysis product. Built and delivered multi-user scale and isolation subsystem (comparable to Chrome's process-per-tab). Prototyped shared-memory caching layer for fast restarts. (Spring Framework, Zookeeper)
-- Drove Palantir-wide transition from monolithic backend built on a proprietary OSGi-like stack to Dropwizard-based microservices. Worked with multiple teams to analyze costs and benefits. Built shared tooling and standards for microservices.
-- Drove adoption of Apache Spark at Palantir. Designed data-processing DSL and job-orchestration framework (comparable to Airflow). Built infrastructure to help data scientists deploy Python applications and notebooks while respecting Palantir's stringent network and data security requirements. Led development of a full-stack signals intelligence / top-down analysis product built on Spark / Vertica / Dropwizard / AngularJS. Contributed to Spark core and PySpark.
-- Led a major re-architecture of the authentication microservice used across all Palantir products. Enabled customer-facing teams to integrate with SSO systems faster.
-- Prototyped continuous deployment and centralized logging across Palantir's cloud-based products. Extended ELK stack and existing cloud deployment products to allow a central dev/ops team to monitor and manage a large number of customer-specific environments without leaking any sensitive information. (This work was still in progress when I left.)
-- Led teams of 3-7 engineers. Responsible for career growth, technical mentorship, feedback and performance review. Hiring manager for a team of ~40 engineers.
+- **Co-owned backend for financial analysis product.** Built and delivered multi-user scale and isolation subsystem (comparable to Chrome's process-per-tab). Prototyped shared-memory caching layer for fast restarts. (Spring Framework, Zookeeper)
+- **Drove Palantir-wide transition from monolithic backend built on a proprietary OSGi-like stack to Dropwizard-based microservices.** Worked with multiple teams to analyze costs and benefits. Built shared tooling and standards for microservices.
+- **Drove adoption of Apache Spark at Palantir.** Designed data-processing DSL and job-orchestration framework (comparable to Airflow). Built infrastructure to help data scientists deploy Python applications and notebooks while respecting Palantir's stringent network and data security requirements. Led development of a full-stack signals intelligence / top-down analysis product built on Spark / Vertica / Dropwizard / AngularJS. Contributed to Spark core and PySpark.
+- **Led a major re-architecture of the authentication microservice used across all Palantir products.** Enabled customer-facing teams to integrate with SSO systems faster.
+- **Prototyped continuous deployment and centralized logging across Palantir's cloud-based products.** Extended ELK stack and existing cloud deployment products to allow a central dev/ops team to monitor and manage a large number of customer-specific environments without leaking any sensitive information. (This work was still in progress when I left.)
+- **Led teams of 3-7 engineers.** Responsible for career growth, technical mentorship, feedback and performance review. Hiring manager for a team of ~40 engineers.
 
 ### Microsoft (2010) - Research intern
 - Research on theoretical topics (lower bounds for locale decidable codes, differential privacy for real-valued queries).
