@@ -14,15 +14,12 @@ permalink: /resume/
 - Developing applications to deliver NLP capabilities in enterprise customer support
 
 ### Palantir (2011–2016)
-Led teams that developed key products in the commercial space, drove large-scale architectural changes across Palantir.
-
-- 2016: Development lead for centralized log collection and continuous deployment across cloud-based products. (ELK)
-- 2016: Development lead on top-down analytics product, used for signals intelligence, data quality and time series oriented analysis. (Spark, Dropwizard, AngularJS, ReactJS, TypeScript, Docker)
-- 2015: Tech lead for unified authentication service across Palantir applications. (Dropwizard, Spring Security)
-- 2015: Development lead for Python infrastructure team. (Conda, PySpark, Docker)
-- 2014: Drop evaluation and adoption of Dropwizard + TypeScript across all new projects at Palantir
-- 2014: Backend lead for dashboard/rapid application development tool. (Dropwizard, TypeScript, AngularJS)
-- 2011-2013: Developer on Finance product, responsible for performance and stability under high multi-user load. (Spring Framework, Zookeeper)
+- Co-owned backend for financial analysis product. Built and delivered multi-user scale and isolation subsystem (comparable to Chrome's process-per-tab). Prototyped shared-memory caching layer for fast restarts. (Spring Framework, Zookeeper)
+- Drove Palantir-wide transition from monolithic backend built on a proprietary OSGi-like stack to Dropwizard-based microservices. Worked with multiple teams to analyze costs and benefits. Built shared tooling and standards for microservices.
+- Drove adoption of Apache Spark at Palantir. Designed data-processing DSL and job-orchestration framework (comparable to Airflow). Built infrastructure to help data scientists deploy Python applications and notebooks while respecting Palantir's stringent network and data security requirements. Led development of a full-stack signals intelligence / top-down analysis product built on Spark / Vertica / Dropwizard / AngularJS. Contributed to Spark core and PySpark.
+- Led a major re-architecture of the authentication microservice used across all Palantir products. Enabled customer-facing teams to integrate with SSO systems faster.
+- Prototyped continuous deployment and centralized logging across Palantir's cloud-based products. Extended ELK stack and existing cloud deployment products to allow a central dev/ops team to monitor and manage a large number of customer-specific environments without leaking any sensitive information. (This work was still in progress when I left.)
+- Led teams of 3-7 engineers. Responsible for career growth, technical mentorship, feedback and performance review. Hiring manager for a team of ~40 engineers.
 
 ### Microsoft (internship, 2010)
 - Research on theoretical topics (lower bounds for locale decidable codes, differential privacy for real-valued queries).
