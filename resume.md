@@ -39,7 +39,7 @@ permalink: /resume/
 
 ### MIT (SB and MEng, 2002-2007)
 - Selected coursework: Abstract algebra, graduate-level algorithms, cryptography.
-- Teaching: Worked with Ron Rivest to revamp curriculum for introduction to algorithms. TA for compilers, graduate algorithms.
+- Teaching: Worked with Prof. Ron Rivest to revamp curriculum for introduction to algorithms. TA for compilers, graduate algorithms.
 
 ## Publications and patents
 - System for providing dynamic linked panels in user interface. ([US 20160062555 A1](http://www.google.com/patents/US20160062555))
