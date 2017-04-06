@@ -11,9 +11,13 @@ permalink: /resume/
 ## Industry experience
 
 ### Asapp (Dec 2016-present) - Senior Software Engineer
-- Developing applications to deliver NLP capabilities in enterprise customer support
+- Developing full-stack applications to deliver NLP capabilities in enterprise customer support
 
-### Palantir (2011–2016) - Development Team Lead
+### Palantir (2011–2016) - Technical Fellow and Development Team Lead
+
+Note that "Development Team Lead" was my official title but my responsibilities include what is typical for technical fellows at other engineering-focused organizations.
+
+- **Technical mentorship and guidance across the organization.** Organized engineering reviews and provided architectural feedback to teams embarking on significant project, especially concerning performance at scale and API design.
 - **Co-owned backend for financial analysis product.** Built and delivered multi-user scale and isolation subsystem (comparable to Chrome's process-per-tab). Prototyped shared-memory caching layer for fast restarts. (Spring Framework, Zookeeper)
 - **Drove Palantir-wide transition from monolithic backend built on a proprietary OSGi-like stack to Dropwizard-based microservices.** Worked with multiple teams to analyze costs and benefits. Built shared tooling and standards for microservices.
 - **Drove adoption of Apache Spark at Palantir.** Designed data-processing DSL and job-orchestration framework (comparable to Airflow). Built infrastructure to help data scientists deploy Python applications and notebooks while respecting Palantir's stringent network and data security requirements. Led development of a full-stack signals intelligence / top-down analysis product built on Spark / Vertica / Dropwizard / AngularJS. Contributed to Spark core and PySpark.
