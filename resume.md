@@ -8,10 +8,15 @@ permalink: /resume/
 
 - Email: [`punya.biswal@gmail.com`](mailto:punya.biswal@gmail.com)
 - Work eligibility: H-1B visa holder, I-140 approved
+- Location: Greater Boston Area
 
 ## Industry experience
 
-### ASAPP (Dec 2016-present) - Director of Engineering
+### TetraScience (2020-Present) - Chief Technical Officer
+
+TetraScience activates the flow of experimental data in the digital lab by automatically centralizing, harmonizing and preparing data gathered from instruments and CROs/CDMOs. I am responsible for overall technical strategy and execution.
+
+### ASAPP (2017–2019) - Director of Engineering
 
 ASAPP's mission is delivering automation and work simplification to solve complex problems in the enterprise. I am responsible for the Foundations Engineering team, which encompasses SRE, application frameworks, data engineering and solutions architecture.
 
