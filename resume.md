@@ -66,8 +66,7 @@ Note that "Development Team Lead" was my official title but my responsibilities 
 
 - Using semantic processing for customer support ([US 9880696B2](https://patents.google.com/patent/US10083451B2))
 - Multi-platform interface framework ([US 10365898B2](https://patents.google.com/patent/US10365898B2))
-- 
-Storing logical units of program code generated using a dynamic programming notebook user interface ([US 9870205B1](https://patents.google.com/patent/US9870205B1))
+- Storing logical units of program code generated using a dynamic programming notebook user interface ([US 9870205B1](https://patents.google.com/patent/US9870205B1))
 - Domain-specific language for dataset transformations ([US 9576015B1](https://patents.google.com/patent/US9576015B1))
 - System for providing dynamic linked panels in user interface. ([US 9454281B2](https://patents.google.com/patent/US9454281B2))
 - System and method utilizing a shared cache to provide zero copy memory mapped database ([US 9367463B2](https://patents.google.com/patent/US9367463B2))
