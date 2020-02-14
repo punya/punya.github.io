@@ -64,8 +64,14 @@ Note that "Development Team Lead" was my official title but my responsibilities 
 
 ## Publications and patents
 
-- System for providing dynamic linked panels in user interface. ([US 20160062555 A1](http://www.google.com/patents/US20160062555))
-- Shared cache used to provide zero copy memory mapped database. ([US 20140281115 A1](http://www.google.com/patents/US20140281115))
+- Using semantic processing for customer support ([US 9880696B2](https://patents.google.com/patent/US10083451B2))
+- Multi-platform interface framework ([US 10365898B2](https://patents.google.com/patent/US10365898B2))
+- 
+Storing logical units of program code generated using a dynamic programming notebook user interface ([US 9870205B1](https://patents.google.com/patent/US9870205B1))
+- Domain-specific language for dataset transformations ([US 9576015B1](https://patents.google.com/patent/US9576015B1))
+- System for providing dynamic linked panels in user interface. ([US 9454281B2](https://patents.google.com/patent/US9454281B2))
+- System and method utilizing a shared cache to provide zero copy memory mapped database ([US 9367463B2](https://patents.google.com/patent/US9367463B2))
+
 - Eigenvalue bounds, spectral partitioning and metrical deformations via flows. [*Journal of the ACM* 57.3 (2010): 13](http://dx.doi.org/10.1145/1706591.1706593).
 
 ## References
