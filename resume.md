@@ -14,7 +14,12 @@ permalink: /resume/
 
 ### TetraScience (2020-Present) - Chief Technical Officer
 
-TetraScience activates the flow of experimental data in the digital lab by automatically centralizing and harmonizing data gathered from instruments/CROs/CDMOs, to prepare it for data science and AI/ML processing. I am responsible for overall technical strategy and execution.
+TetraScience activates the flow of experimental data in the digital lab by automatically centralizing and harmonizing data gathered from instruments/CROs/CDMOs, to prepare it for data science and AI/ML processing. My responsibilities cover
+
+- Platform engineering and product: Owning product vision and technology execution plan for the TetraScience data platform and the lab monitoring app.
+- Delivery engineering: Extending the reach of the platform by integrating with scientific instruments, electronic lab notebooks and enterprise APIs.
+
+including hiring and mentorship.
 
 ### ASAPP (2017–2019) - Director of Engineering
 
