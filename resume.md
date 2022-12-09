@@ -7,12 +7,16 @@ permalink: /resume/
 ## Contact information
 
 - Email: [`punya.biswal@gmail.com`](mailto:punya.biswal@gmail.com)
-- Work eligibility: H-1B visa holder, I-140 approved
+- Work eligibility: Green card holder
 - Location: Greater Boston Area
 
 ## Industry experience
 
-### TetraScience (2020-Present) - Chief Technical Officer
+### Google (2021–present) - Engineering Manager
+
+I lead the teams responsible for Cloud Trace and Cloud Profiler, as well as Google's contributions to OpenTelemetry.
+
+### TetraScience (2020) - Chief Technical Officer
 
 TetraScience activates the flow of experimental data in the digital lab by automatically centralizing and harmonizing data gathered from instruments/CROs/CDMOs, to prepare it for data science and AI/ML processing. My responsibilities cover
 
@@ -53,6 +57,7 @@ Note that "Development Team Lead" was my official title but my responsibilities 
 
 ## Service
 
+- 2016, 2017: Co-taught a course titled "Math, Modeling and Microbes" that introduced New Haven area high-schoolers to linear algebra in the context of epidemiology.
 - 2015: Mentored a team of high school student entrepreneurs as part of the [Network for Teaching Entrepreneurship](https://www.nfte.com/)
 
 ## Education
