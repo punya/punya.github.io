@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Punyashloka Biswal
+title: Punya Biswal
 permalink: /resume/
 ---
 
