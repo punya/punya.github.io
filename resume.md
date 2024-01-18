@@ -16,6 +16,11 @@ permalink: /resume/
 
 I lead the teams responsible for Cloud Trace and Cloud Profiler, as well as Google's contributions to OpenTelemetry.
 
+- Cloud Trace and Cloud Profiler are the distributed tracing and continuous profiling components of Google's scalable obserability product.
+- OpenTelemetry is a CNCF project to create vendor-agnostic standards and tooling for observability.
+
+My responsibilities include hiring for a team of 15 people, as well as working with cross-functional stakeholders to set the product and technical strategy.
+
 ### TetraScience (2020) - Chief Technical Officer
 
 TetraScience activates the flow of experimental data in the digital lab by automatically centralizing and harmonizing data gathered from instruments/CROs/CDMOs, to prepare it for data science and AI/ML processing. My responsibilities cover
